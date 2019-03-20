@@ -1,0 +1,42 @@
+{
+  "basics":{
+    "img":"img/profile.png",
+    "name":"JYOTHI",
+    "email":"avvarijyothi21@gmail.com"
+  },
+  "career":{
+    "info":"To work in a professional environment where i can utilize my knowledga and improve my skills"
+  },
+  "Education":[
+    {
+      "Sno":"1",
+      "degree":"B.tech",
+      "institute":"MITS",
+      "percentage":"95%"
+    },
+    {
+      "Sno":"2",
+      "degree":"Inter",
+      "institute":"SRGJC",
+      "percentage":"98%"
+    },
+    {
+      "Sno":"3",
+      "degree":"SSC",
+      "institute":"BSR girls high school",
+      "percentage":"95%"
+    }
+  ],
+  "Skills":[
+    {
+      "info":"PYTHON"
+    },
+    {
+      "info":"C"
+    },
+
+    {
+      "info":"JAVA"
+    }
+  ]
+}
